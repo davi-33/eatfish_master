@@ -13,7 +13,7 @@ PID_t shoot1_speed_pid;
 PID_t shoot2_speed_pid;
 shoot_t shoot;
 float back_cnt = 20;	 // 修改这个来更改退弹时间
-float trrigger_rate=23 ;// 弹频 Hz
+float trrigger_rate=22 ;// 弹频 Hz
 float trigger_back_cnt = 1;
 #define TRIGGER_RPM2HZ 270
 
